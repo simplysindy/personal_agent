@@ -1,4 +1,4 @@
-# Personal Knowledge Agent
+# Personal AI Knowledge Agent
 
 AI-powered knowledge management system that transforms an Obsidian vault into a queryable knowledge graph with conversational retrieval.
 
